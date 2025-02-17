@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const proxyBaseUrl = "https://orbclan.onrender.com";
 
   // Default clan name
-  let clanName = "nong";
+  let clanName = "orb";
 
   // Check if the URL has a `clan` parameter
   const urlParams = new URLSearchParams(window.location.search);
